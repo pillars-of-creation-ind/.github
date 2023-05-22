@@ -10,6 +10,10 @@
 -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, We are Pillars of Creation</h1>
+<br>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=pillars-of-creation-ind&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+</p>
 <h3 align="center">We contribute open source learning, codebase and covering trending topics.</h3>
 
 🔭 We are currently working on **<a href="https://pawsfortails.com" target="_blank">Pet Startup</a>**<br>
