@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, We are Pillars of Creation</h1>
+<h1 align="center">We are Pillars of Creation</h1>
 <br>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=pillars-of-creation-ind&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
